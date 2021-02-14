@@ -8,7 +8,7 @@ Changed this file
 
 All of this is meant to make us the most efficient and fast developers possible.
 
-## Settings
+## Settings (cmd, )
 
 - Auto save after delay
 - Auto format on save. Let Prettier handle formatting for us.
@@ -16,6 +16,7 @@ All of this is meant to make us the most efficient and fast developers possible.
 - Line height greater than 2
 - Hide activity bar
 - Hide status bar
+- Sometimes centered layout
 
 ## Extensions
 
@@ -77,3 +78,4 @@ Here's my custom snippet that I use. You'll see me type `rfc` to create a React 
 - Show explorer: cmd shift e
 - Show terminal: ctrl `
 - Multiple cursors
+- Show settings: ,

@@ -5,6 +5,11 @@ function padTime(time) {
   return time.toString().padStart(2, '0');
 }
 
+// const things = [
+//   {stuff: 'stuff'}
+//    {stuff: 'stuff',}
+// ]
+
 export default function App() {
   const [title, setTitle] = useState('Let the countdown begin!!!');
   const [timeLeft, setTimeLeft] = useState(15);

@@ -1,0 +1,11 @@
+ctrl+ shif +p settings - user pref
+auto format on paste
+Editor - format on save
+extensions - peacock (papa)
+        - eslint Dirk Baeumer
+        - Javascript (ES6) snippets (clg, open snippets)
+
+ command - icon theme - file icon theme
+ https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
+        
+
